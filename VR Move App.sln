@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VR Move App", "VR Move App.csproj", "{D60779A5-7548-2DA2-38F3-36E5DA4AFD16}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VR Move App.Editor", "VR Move App.Editor.csproj", "{CF03E134-1EFC-E76A-0DC6-FF6F9A31F5B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D60779A5-7548-2DA2-38F3-36E5DA4AFD16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D60779A5-7548-2DA2-38F3-36E5DA4AFD16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D60779A5-7548-2DA2-38F3-36E5DA4AFD16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D60779A5-7548-2DA2-38F3-36E5DA4AFD16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF03E134-1EFC-E76A-0DC6-FF6F9A31F5B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF03E134-1EFC-E76A-0DC6-FF6F9A31F5B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF03E134-1EFC-E76A-0DC6-FF6F9A31F5B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF03E134-1EFC-E76A-0DC6-FF6F9A31F5B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
