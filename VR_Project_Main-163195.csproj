@@ -237,6 +237,8 @@
   <ItemGroup>
     <Compile Include="Assets\Audio\ButtonPressAudio.cs" />
     <Compile Include="Assets\Audio\NewSceneAudio.cs" />
+    <Compile Include="Assets\Coin\CoinScript.cs" />
+    <Compile Include="Assets\Coin\ScoringScript.cs" />
     <Compile Include="Assets\GazeInteraction.cs" />
     <Compile Include="Assets\GoogleVR\Beta\Demos\Scripts\DemoObjectController6DoF.cs" />
     <Compile Include="Assets\GoogleVR\Beta\Demos\Scripts\DemoSeeThroughController.cs" />
