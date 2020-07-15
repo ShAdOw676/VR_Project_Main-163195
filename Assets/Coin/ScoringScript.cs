@@ -18,11 +18,11 @@ public class ScoringScript : MonoBehaviour {
     {
         //GUI.Label(new Rect(10, 10, 100, 20), "Score : " + points);
 
-        GUIStyle colorRed = new GUIStyle();
+        GUIStyle colorGreen = new GUIStyle();
 
-        colorRed.normal.textColor = Color.red;
-        colorRed.fontSize = 30;
+        colorGreen.normal.textColor = Color.green;
+        colorGreen.fontSize = 30;
 
-        GUI.Label(new Rect(10, 10, 100, 20), "Score : " + points, colorRed);
+        GUI.Label(new Rect(10, 10, 100, 20), "Score : " + points, colorGreen);
     }
 }
